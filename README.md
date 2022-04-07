@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Need create .env file and add variables
 
-User dev email ```bash jhondoe@email.com```
+User dev email ```jhondoe@email.com```
 User dev password ``jhondoe``
 
 ## Available Scripts
